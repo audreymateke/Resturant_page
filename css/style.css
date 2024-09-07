@@ -12,7 +12,7 @@
 
 }
 .hero_image{
-     background: url(images/heroimage.jpeg) no-repeat;
+     background: url(/images/heroimage.jpeg) no-repeat;
      -webkit-background-size: cover;
      background-size: cover;
      height: 100vh;
